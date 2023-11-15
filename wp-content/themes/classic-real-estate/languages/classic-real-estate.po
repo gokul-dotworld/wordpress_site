@@ -1,0 +1,260 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: Classic Real Estate\n"
+"POT-Creation-Date: 2022-12-01 20:24+2\n"
+"PO-Revision-Date: 2022-12-01 20:24+2\n"
+"Last-Translator: \n"
+"Language-Team: classictemplate <support@theclassictemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template-home-page.php:45 template-home-page.php:47
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:29
+msgid "Logo Width"
+msgstr ""
+
+#: customizer.php:49
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer.php:61
+msgid "Enable Site Title"
+msgstr ""
+
+#: customizer.php:76
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer.php:88
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: customizer.php:96
+msgid "Theme Options Panel"
+msgstr ""
+
+#: customizer.php:101
+msgid "Manage General Section"
+msgstr ""
+
+#: customizer.php:102
+msgid "<p class=\"sec-title\">Manage General Section</p>"
+msgstr ""
+
+#: customizer.php:114
+msgid "Check To Show Sidebar"
+msgstr ""
+
+#: customizer.php:120
+msgid "Manage Header Section"
+msgstr ""
+
+#: customizer.php:121
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: customizer.php:133
+msgid "Check To Show Sticky Header"
+msgstr ""
+
+#: customizer.php:145 customizer.php:169
+msgid "Add Text"
+msgstr ""
+
+#: customizer.php:157
+msgid "Add Email Address"
+msgstr ""
+
+#: customizer.php:181
+msgid "Add Phone Number"
+msgstr ""
+
+#: customizer.php:195
+msgid "Menu Color"
+msgstr ""
+
+#: customizer.php:209
+msgid "Menu Hover Color"
+msgstr ""
+
+#: customizer.php:223
+msgid "SubMenu Color"
+msgstr ""
+
+#: customizer.php:237
+msgid "SubMenu Hover Color"
+msgstr ""
+
+#: customizer.php:243
+msgid "Manage Slider Section"
+msgstr ""
+
+#: customizer.php:244
+msgid ""
+"<p class=\"sec-title\">Manage Slider Section</p> Select Category from the "
+"Dropdowns for slider, Also use the given image dimension (1200 x 600)."
+msgstr ""
+
+#: customizer.php:269 customizer.php:383
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: customizer.php:281
+msgid "Add Button Text"
+msgstr ""
+
+#: customizer.php:295 customizer.php:420 customizer.php:535
+msgid "Title Color"
+msgstr ""
+
+#: customizer.php:309 customizer.php:549
+msgid "Description Color"
+msgstr ""
+
+#: customizer.php:324
+msgid "Button Text Color"
+msgstr ""
+
+#: customizer.php:338
+msgid "Button Background Color"
+msgstr ""
+
+#: customizer.php:344
+msgid "Manage Our Apartments Section"
+msgstr ""
+
+#: customizer.php:345
+msgid ""
+"<p class=\"sec-title\">Manage Our Apartments Section</p> Select service "
+"category from the Dropdowns for Our Apartments section."
+msgstr ""
+
+#: customizer.php:358
+msgid "Add Section Title"
+msgstr ""
+
+#: customizer.php:370
+msgid "Add Section Content"
+msgstr ""
+
+#: customizer.php:406
+msgid "Heading Color"
+msgstr ""
+
+#: customizer.php:426
+msgid "Manage Post Section"
+msgstr ""
+
+#: customizer.php:438
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:439
+msgid ""
+"This option work for blog page, blog single page, archive page and search "
+"page."
+msgstr ""
+
+#: customizer.php:442
+msgid "Full"
+msgstr ""
+
+#: customizer.php:443
+msgid "Left"
+msgstr ""
+
+#: customizer.php:444
+msgid "Right"
+msgstr ""
+
+#: customizer.php:445
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:446
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:447
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:457
+msgid "Post Description Length"
+msgstr ""
+
+#: customizer.php:460
+msgid "No Content"
+msgstr ""
+
+#: customizer.php:461
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer.php:462
+msgid "Full Content"
+msgstr ""
+
+#: customizer.php:468
+msgid "Manage Footer Section"
+msgstr ""
+
+#: customizer.php:469
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: customizer.php:479
+msgid "Copyright Line"
+msgstr ""
+
+#: customizer.php:490
+msgid "Copyright Link"
+msgstr ""
+
+#: customizer.php:505
+msgid "Coypright Color"
+msgstr ""
+
+#: customizer.php:520
+msgid "BG Color"
+msgstr ""
+
+#: customizer.php:563
+msgid "List Color"
+msgstr ""
+
+#: customizer.php:572
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:97
+msgid "Top Menu"
+msgstr ""
+
+#: footer.php:19
+msgid "https://www.theclassictemplates.com/free-real-estate-wordpress-theme/"
+msgstr ""
+
+#: footer.php:19
+msgid "Classic Real Estate WordPress Theme"
+msgstr ""
+
+#: footer.php:26
+msgid "TOP"
+msgstr ""
